@@ -16,4 +16,5 @@
 <li><strong>Tensorflow (<code>pip install tensorflow&gt;=1.15</code>)</strong></li>
 <li><strong>Keras (<code>pip install keras</code>)</strong></li>
 <li><strong>pdpipe (<code>pip install pdpipe</code>)</strong></li>
+  For windows machine use py -m <pip command>
 </ul>
